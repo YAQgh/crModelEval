@@ -1,0 +1,13 @@
+Package: crModelEval
+Title: Model Evaluation for Competing Risks Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yang", "Qu", , "yangqu1388@gmail.com", role = c("aut", "cre"))
+Description: This package provides model evaluation methods for competing risks data based on extended concordance measure. Both overall evaluation and cause-specific evaluation are available. Bootstrapping method for model comparison is also included.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    bootstrap,
+    riskRegression

@@ -11,3 +11,5 @@ RoxygenNote: 7.2.1
 Imports: 
     bootstrap,
     riskRegression
+URL: https://github.com/YAQgh/crModelEval
+BugReports: https://github.com/YAQgh/crModelEval/issues

@@ -25,7 +25,7 @@ The goal of crModelEval is to provide model evaluation methods for competing ris
 You can install the development version of crModelEval like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+devtools::install_github("YAQgh/crModelEval")
 ```
 
 ## Example
@@ -34,7 +34,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(crModelEval)
-## basic example code
+
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
